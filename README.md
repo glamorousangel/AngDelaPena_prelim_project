@@ -85,3 +85,8 @@ source=4000
 clean=3600
 quarantine=400
 hourly_rows=3600
+```
+
+## Reliability 
+
+The pipeline follows the Reliability pillar described by Martin Kleppmann by isolating failures during validation instead of allowing corrupted records to terminate the entire pipeline. Invalid sensor records are routed to a quarantine file with a specific rejection reason, while valid records continue through aggregation and analytical storage. Timestamped logging provides observability, and deterministic rebuilding of the Parquet dataset and quarantine output supports reliable repeated execution.
