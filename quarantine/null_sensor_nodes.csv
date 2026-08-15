@@ -1,0 +1,401 @@
+record_id,camera_node_id,intersection_zone,vehicle_count,status,order_date,quarantine_reason
+1,CAM-A-02,ZONE A,-170,ACTIVE,2026-01-01 00:00:00,negative vehicle_count
+46,CAM-F-07,zone f,-543,ACTIVE,2026-01-02 21:00:00,negative vehicle_count
+50,CAM-J-01,zone j,-99,ACTIVE,2026-01-03 01:00:00,negative vehicle_count
+58,,zone h,120,ACTIVE,2026-01-03 09:00:00,NULL or blank camera_node_id
+67,,zone g,428,ACTIVE,2026-01-03 18:00:00,NULL or blank camera_node_id
+70,,ZONE J,331,ACTIVE,2026-01-03 21:00:00,NULL or blank camera_node_id
+77,CAM-G-03,Zone G ,-555,ACTIVE,2026-01-04 04:00:00,negative vehicle_count
+81,,ZONE A,291,ACTIVE,2026-01-04 08:00:00,NULL or blank camera_node_id
+93,CAM-C-04,  Zone C  ,-450,ACTIVE,2026-01-04 20:00:00,negative vehicle_count
+113,,zone c,724,ACTIVE,2026-01-05 16:00:00,NULL or blank camera_node_id
+133,CAM-C-01,ZONE C,-420,ACTIVE,2026-01-06 12:00:00,negative vehicle_count
+145,,Zone E,681,ACTIVE,2026-01-07 00:00:00,NULL or blank camera_node_id
+151,CAM-A-06,Zone A,13962,ACTIVE,2026-01-07 06:00:00,extreme vehicle_count outlier (>= 5000)
+162,,zone b,415,ACTIVE,2026-01-07 17:00:00,NULL or blank camera_node_id
+180,CAM-J-01, Zone J,-477,ACTIVE,2026-01-08 11:00:00,negative vehicle_count
+189,,zone i,527,ACTIVE,2026-01-08 20:00:00,NULL or blank camera_node_id
+190,CAM-J-05,zone j,12999,ACTIVE,2026-01-08 21:00:00,extreme vehicle_count outlier (>= 5000)
+195,CAM-E-06,Zone E,-271,ACTIVE,2026-01-09 02:00:00,negative vehicle_count
+211,CAM-A-07,ZONE A,-617,ACTIVE,2026-01-09 18:00:00,negative vehicle_count
+219,CAM-I-08,Zone I,6641,ACTIVE,2026-01-10 02:00:00,extreme vehicle_count outlier (>= 5000)
+220,,Zone J ,784,ACTIVE,2026-01-10 03:00:00,NULL or blank camera_node_id
+239,CAM-I-08,zone i,-484,ACTIVE,2026-01-10 22:00:00,negative vehicle_count
+243,,Zone C ,306,ACTIVE,2026-01-11 02:00:00,NULL or blank camera_node_id
+264,,zone d,451,ACTIVE,2026-01-11 23:00:00,NULL or blank camera_node_id
+267,,Zone G ,493,ACTIVE,2026-01-12 02:00:00,NULL or blank camera_node_id
+284,CAM-D-02,Zone D,10450,ACTIVE,2026-01-12 19:00:00,extreme vehicle_count outlier (>= 5000)
+302,,ZONE B,619,ACTIVE,2026-01-13 13:00:00,NULL or blank camera_node_id
+303,CAM-C-04,  Zone C  ,12940,ACTIVE,2026-01-13 14:00:00,extreme vehicle_count outlier (>= 5000)
+312,CAM-B-02,Zone B,-432,ACTIVE,2026-01-13 23:00:00,negative vehicle_count
+321,,  Zone A  ,756,ACTIVE,2026-01-14 08:00:00,NULL or blank camera_node_id
+344,,Zone D,288,ACTIVE,2026-01-15 07:00:00,NULL or blank camera_node_id
+350,CAM-J-08,Zone J ,-719,ACTIVE,2026-01-15 13:00:00,negative vehicle_count
+353,CAM-C-07,  Zone C  ,5725,ACTIVE,2026-01-15 16:00:00,extreme vehicle_count outlier (>= 5000)
+356,,Zone F ,790,ACTIVE,2026-01-15 19:00:00,NULL or blank camera_node_id
+373,CAM-C-04,Zone C ,-301,ACTIVE,2026-01-16 12:00:00,negative vehicle_count
+376,CAM-F-02,Zone F,12234,ACTIVE,2026-01-16 15:00:00,extreme vehicle_count outlier (>= 5000)
+410,,Zone J ,504,ACTIVE,2026-01-18 01:00:00,NULL or blank camera_node_id
+427,CAM-G-03,Zone G,-472,ACTIVE,2026-01-18 18:00:00,negative vehicle_count
+431,CAM-A-02, Zone A,-79,ACTIVE,2026-01-18 22:00:00,negative vehicle_count
+433,CAM-C-06,Zone C ,7666,ACTIVE,2026-01-19 00:00:00,extreme vehicle_count outlier (>= 5000)
+445,CAM-E-03,zone e,-375,ACTIVE,2026-01-19 12:00:00,negative vehicle_count
+446,CAM-F-06, Zone F,-278,ACTIVE,2026-01-19 13:00:00,negative vehicle_count
+458,,ZONE H,859,ACTIVE,2026-01-20 01:00:00,NULL or blank camera_node_id
+472,CAM-B-06,  Zone B  ,9427,ACTIVE,2026-01-20 15:00:00,extreme vehicle_count outlier (>= 5000)
+481,CAM-A-03,zone a,13149,ACTIVE,2026-01-21 00:00:00,extreme vehicle_count outlier (>= 5000)
+500,,Zone J ,167,ACTIVE,2026-01-21 19:00:00,NULL or blank camera_node_id
+526,,Zone F ,171,ACTIVE,2026-01-22 21:00:00,NULL or blank camera_node_id
+527,,zone g,300,ACTIVE,2026-01-22 22:00:00,NULL or blank camera_node_id
+532,CAM-B-08,zone b,8271,ACTIVE,2026-01-23 03:00:00,extreme vehicle_count outlier (>= 5000)
+548,,zone h,684,ACTIVE,2026-01-23 19:00:00,NULL or blank camera_node_id
+558,CAM-H-01,Zone H ,-133,ACTIVE,2026-01-24 05:00:00,negative vehicle_count
+601,,ZONE A,162,ACTIVE,2026-01-26 00:00:00,NULL or blank camera_node_id
+611,,zone a,145,ACTIVE,2026-01-26 10:00:00,NULL or blank camera_node_id
+621,,  Zone A  ,445,ACTIVE,2026-01-26 20:00:00,NULL or blank camera_node_id
+652,,Zone B ,243,ACTIVE,2026-01-28 03:00:00,NULL or blank camera_node_id
+664,,zone d,151,ACTIVE,2026-01-28 15:00:00,NULL or blank camera_node_id
+680,,Zone J ,266,ACTIVE,2026-01-29 07:00:00,NULL or blank camera_node_id
+686,,Zone F,469,ACTIVE,2026-01-29 13:00:00,NULL or blank camera_node_id
+690,CAM-J-02,zone j,-360,ACTIVE,2026-01-29 17:00:00,negative vehicle_count
+694,CAM-D-03,  Zone D  ,10827,ACTIVE,2026-01-29 21:00:00,extreme vehicle_count outlier (>= 5000)
+695,,Zone E ,400,ACTIVE,2026-01-29 22:00:00,NULL or blank camera_node_id
+712,CAM-B-01,ZONE B,-707,ACTIVE,2026-01-30 15:00:00,negative vehicle_count
+720,,zone j,535,ACTIVE,2026-01-30 23:00:00,NULL or blank camera_node_id
+740,,zone j,311,ACTIVE,2026-01-31 19:00:00,NULL or blank camera_node_id
+769,CAM-I-03, Zone I,6302,ACTIVE,2026-02-02 00:00:00,extreme vehicle_count outlier (>= 5000)
+774,CAM-D-08,Zone D ,-681,ACTIVE,2026-02-02 05:00:00,negative vehicle_count
+782,,ZONE B,628,ACTIVE,2026-02-02 13:00:00,NULL or blank camera_node_id
+806,,Zone F ,93,ACTIVE,2026-02-03 13:00:00,NULL or blank camera_node_id
+814,CAM-D-04,ZONE D,-363,ACTIVE,2026-02-03 21:00:00,negative vehicle_count
+824,CAM-D-04, Zone D,-858,ACTIVE,2026-02-04 07:00:00,negative vehicle_count
+830,,Zone J ,438,ACTIVE,2026-02-04 13:00:00,NULL or blank camera_node_id
+841,,  Zone A  ,126,ACTIVE,2026-02-05 00:00:00,NULL or blank camera_node_id
+845,, Zone E,342,ACTIVE,2026-02-05 04:00:00,NULL or blank camera_node_id
+858,CAM-H-02,Zone H ,-323,ACTIVE,2026-02-05 17:00:00,negative vehicle_count
+861,,ZONE A,794,ACTIVE,2026-02-05 20:00:00,NULL or blank camera_node_id
+866,,zone f,320,ACTIVE,2026-02-06 01:00:00,NULL or blank camera_node_id
+867,,Zone G,658,ACTIVE,2026-02-06 02:00:00,NULL or blank camera_node_id
+872,,  Zone B  ,344,ACTIVE,2026-02-06 07:00:00,NULL or blank camera_node_id
+874,CAM-D-04, Zone D,-371,ACTIVE,2026-02-06 09:00:00,negative vehicle_count
+903,,zone c,560,ACTIVE,2026-02-07 14:00:00,NULL or blank camera_node_id
+904,,zone d,301,ACTIVE,2026-02-07 15:00:00,NULL or blank camera_node_id
+920,,Zone J,392,ACTIVE,2026-02-08 07:00:00,NULL or blank camera_node_id
+921,,zone a,651,ACTIVE,2026-02-08 08:00:00,NULL or blank camera_node_id
+937,CAM-G-02,ZONE G,-160,ACTIVE,2026-02-09 00:00:00,negative vehicle_count
+953,CAM-C-08,ZONE C,-796,ACTIVE,2026-02-09 16:00:00,negative vehicle_count
+963,CAM-C-06,  Zone C  ,9929,ACTIVE,2026-02-10 02:00:00,extreme vehicle_count outlier (>= 5000)
+965,,  Zone E  ,481,ACTIVE,2026-02-10 04:00:00,NULL or blank camera_node_id
+981,CAM-A-04,Zone A,8632,ACTIVE,2026-02-10 20:00:00,extreme vehicle_count outlier (>= 5000)
+1011,CAM-A-04,ZONE A,-238,ACTIVE,2026-02-12 02:00:00,negative vehicle_count
+1014,CAM-D-08,zone d,11866,ACTIVE,2026-02-12 05:00:00,extreme vehicle_count outlier (>= 5000)
+1031,CAM-A-03,zone a,-687,ACTIVE,2026-02-12 22:00:00,negative vehicle_count
+1042,CAM-B-02,Zone B ,-440,ACTIVE,2026-02-13 09:00:00,negative vehicle_count
+1050,CAM-J-03,  Zone J  ,-440,ACTIVE,2026-02-13 17:00:00,negative vehicle_count
+1059,CAM-I-06, Zone I,12325,ACTIVE,2026-02-14 02:00:00,extreme vehicle_count outlier (>= 5000)
+1065,CAM-E-07,  Zone E  ,-398,ACTIVE,2026-02-14 08:00:00,negative vehicle_count
+1071,CAM-A-03,zone a,5798,ACTIVE,2026-02-14 14:00:00,extreme vehicle_count outlier (>= 5000)
+1082,,  Zone B  ,658,ACTIVE,2026-02-15 01:00:00,NULL or blank camera_node_id
+1084,CAM-D-03,  Zone D  ,-140,ACTIVE,2026-02-15 03:00:00,negative vehicle_count
+1086,,Zone F ,194,ACTIVE,2026-02-15 05:00:00,NULL or blank camera_node_id
+1087,,zone g,399,ACTIVE,2026-02-15 06:00:00,NULL or blank camera_node_id
+1103,CAM-C-05,ZONE C,-533,ACTIVE,2026-02-15 22:00:00,negative vehicle_count
+1118,,Zone H,182,ACTIVE,2026-02-16 13:00:00,NULL or blank camera_node_id
+1122,,Zone B ,134,ACTIVE,2026-02-16 17:00:00,NULL or blank camera_node_id
+1141,CAM-A-08,zone a,-213,ACTIVE,2026-02-17 12:00:00,negative vehicle_count
+1146,,Zone F ,542,ACTIVE,2026-02-17 17:00:00,NULL or blank camera_node_id
+1152,,  Zone B  ,322,ACTIVE,2026-02-17 23:00:00,NULL or blank camera_node_id
+1156,,zone f,209,ACTIVE,2026-02-18 03:00:00,NULL or blank camera_node_id
+1158,CAM-H-01,zone h,9686,ACTIVE,2026-02-18 05:00:00,extreme vehicle_count outlier (>= 5000)
+1165,CAM-E-07, Zone E,8781,ACTIVE,2026-02-18 12:00:00,extreme vehicle_count outlier (>= 5000)
+1169,CAM-I-02,Zone I ,12668,ACTIVE,2026-02-18 16:00:00,extreme vehicle_count outlier (>= 5000)
+1170,,Zone J,766,ACTIVE,2026-02-18 17:00:00,NULL or blank camera_node_id
+1171,CAM-A-05,Zone A,-852,ACTIVE,2026-02-18 18:00:00,negative vehicle_count
+1172,CAM-B-08,zone b,-78,ACTIVE,2026-02-18 19:00:00,negative vehicle_count
+1177,CAM-G-01,ZONE G,-445,ACTIVE,2026-02-19 00:00:00,negative vehicle_count
+1185,,  Zone E  ,443,ACTIVE,2026-02-19 08:00:00,NULL or blank camera_node_id
+1191,CAM-A-05,  Zone A  ,9791,ACTIVE,2026-02-19 14:00:00,extreme vehicle_count outlier (>= 5000)
+1193,,Zone C ,475,ACTIVE,2026-02-19 16:00:00,NULL or blank camera_node_id
+1207,CAM-G-02, Zone G,-869,ACTIVE,2026-02-20 06:00:00,negative vehicle_count
+1227,CAM-G-04,ZONE G,-619,ACTIVE,2026-02-21 02:00:00,negative vehicle_count
+1229,,ZONE I,389,ACTIVE,2026-02-21 04:00:00,NULL or blank camera_node_id
+1243,CAM-C-07,Zone C,11001,ACTIVE,2026-02-21 18:00:00,extreme vehicle_count outlier (>= 5000)
+1254,CAM-D-05,ZONE D,6447,ACTIVE,2026-02-22 05:00:00,extreme vehicle_count outlier (>= 5000)
+1267,CAM-G-08,zone g,-673,ACTIVE,2026-02-22 18:00:00,negative vehicle_count
+1284,CAM-D-02,Zone D ,-891,ACTIVE,2026-02-23 11:00:00,negative vehicle_count
+1289,CAM-I-01,  Zone I  ,7716,ACTIVE,2026-02-23 16:00:00,extreme vehicle_count outlier (>= 5000)
+1291,CAM-A-08,zone a,13404,ACTIVE,2026-02-23 18:00:00,extreme vehicle_count outlier (>= 5000)
+1299,,  Zone I  ,512,ACTIVE,2026-02-24 02:00:00,NULL or blank camera_node_id
+1302,, Zone B,124,ACTIVE,2026-02-24 05:00:00,NULL or blank camera_node_id
+1305,CAM-E-02,Zone E ,6457,ACTIVE,2026-02-24 08:00:00,extreme vehicle_count outlier (>= 5000)
+1321,,ZONE A,519,ACTIVE,2026-02-25 00:00:00,NULL or blank camera_node_id
+1322,CAM-B-06,Zone B ,8797,ACTIVE,2026-02-25 01:00:00,extreme vehicle_count outlier (>= 5000)
+1340,,  Zone J  ,157,ACTIVE,2026-02-25 19:00:00,NULL or blank camera_node_id
+1343,CAM-C-08,Zone C,14830,ACTIVE,2026-02-25 22:00:00,extreme vehicle_count outlier (>= 5000)
+1346,, Zone F,389,ACTIVE,2026-02-26 01:00:00,NULL or blank camera_node_id
+1348,CAM-H-03,ZONE H,8066,ACTIVE,2026-02-26 03:00:00,extreme vehicle_count outlier (>= 5000)
+1367,CAM-G-04,Zone G,-817,ACTIVE,2026-02-26 22:00:00,negative vehicle_count
+1370,,zone j,678,ACTIVE,2026-02-27 01:00:00,NULL or blank camera_node_id
+1373,,ZONE C,273,ACTIVE,2026-02-27 04:00:00,NULL or blank camera_node_id
+1378,,ZONE H,308,ACTIVE,2026-02-27 09:00:00,NULL or blank camera_node_id
+1389,,Zone I ,353,ACTIVE,2026-02-27 20:00:00,NULL or blank camera_node_id
+1393,,Zone C,557,ACTIVE,2026-02-28 00:00:00,NULL or blank camera_node_id
+1403,CAM-C-03, Zone C,-721,ACTIVE,2026-02-28 10:00:00,negative vehicle_count
+1411,CAM-A-06,ZONE A,-820,ACTIVE,2026-02-28 18:00:00,negative vehicle_count
+1414,CAM-D-06,Zone D,-760,ACTIVE,2026-02-28 21:00:00,negative vehicle_count
+1426,,Zone F,257,ACTIVE,2026-03-01 09:00:00,NULL or blank camera_node_id
+1428,,Zone H,698,ACTIVE,2026-03-01 11:00:00,NULL or blank camera_node_id
+1437,CAM-G-01,  Zone G  ,-188,ACTIVE,2026-03-01 20:00:00,negative vehicle_count
+1450,,zone j,186,ACTIVE,2026-03-02 09:00:00,NULL or blank camera_node_id
+1464,CAM-D-07,Zone D ,11303,ACTIVE,2026-03-02 23:00:00,extreme vehicle_count outlier (>= 5000)
+1470,CAM-J-05,zone j,-381,ACTIVE,2026-03-03 05:00:00,negative vehicle_count
+1474,, Zone D,601,ACTIVE,2026-03-03 09:00:00,NULL or blank camera_node_id
+1496,CAM-F-07,  Zone F  ,-241,ACTIVE,2026-03-04 07:00:00,negative vehicle_count
+1519,,Zone I,599,ACTIVE,2026-03-05 06:00:00,NULL or blank camera_node_id
+1521,, Zone A,137,ACTIVE,2026-03-05 08:00:00,NULL or blank camera_node_id
+1540,CAM-J-02,zone j,9976,ACTIVE,2026-03-06 03:00:00,extreme vehicle_count outlier (>= 5000)
+1553,CAM-C-08,ZONE C,8667,ACTIVE,2026-03-06 16:00:00,extreme vehicle_count outlier (>= 5000)
+1561,,Zone A,634,ACTIVE,2026-03-07 00:00:00,NULL or blank camera_node_id
+1574,CAM-D-08,Zone D,10302,ACTIVE,2026-03-07 13:00:00,extreme vehicle_count outlier (>= 5000)
+1600,CAM-J-08, Zone J,-725,ACTIVE,2026-03-08 15:00:00,negative vehicle_count
+1606,,ZONE F,540,ACTIVE,2026-03-08 21:00:00,NULL or blank camera_node_id
+1640,CAM-J-07,Zone J ,7852,ACTIVE,2026-03-10 07:00:00,extreme vehicle_count outlier (>= 5000)
+1649,CAM-I-07,Zone I,-824,ACTIVE,2026-03-10 16:00:00,negative vehicle_count
+1661,CAM-A-03,zone a,8285,ACTIVE,2026-03-11 04:00:00,extreme vehicle_count outlier (>= 5000)
+1669,, Zone I,439,ACTIVE,2026-03-11 12:00:00,NULL or blank camera_node_id
+1677,,Zone G,268,ACTIVE,2026-03-11 20:00:00,NULL or blank camera_node_id
+1685,,  Zone E  ,207,ACTIVE,2026-03-12 04:00:00,NULL or blank camera_node_id
+1695,CAM-E-01,zone e,12513,ACTIVE,2026-03-12 14:00:00,extreme vehicle_count outlier (>= 5000)
+1698,CAM-H-07,Zone H,-208,ACTIVE,2026-03-12 17:00:00,negative vehicle_count
+1713,CAM-C-07,Zone C,-440,ACTIVE,2026-03-13 08:00:00,negative vehicle_count
+1722,CAM-B-01,Zone B,13437,ACTIVE,2026-03-13 17:00:00,extreme vehicle_count outlier (>= 5000)
+1744,, Zone D,366,ACTIVE,2026-03-14 15:00:00,NULL or blank camera_node_id
+1757,,ZONE G,131,ACTIVE,2026-03-15 04:00:00,NULL or blank camera_node_id
+1763,CAM-C-04,Zone C ,-879,ACTIVE,2026-03-15 10:00:00,negative vehicle_count
+1805,, Zone E,82,ACTIVE,2026-03-17 04:00:00,NULL or blank camera_node_id
+1812,,Zone B,343,ACTIVE,2026-03-17 11:00:00,NULL or blank camera_node_id
+1815,CAM-E-07,ZONE E,13873,ACTIVE,2026-03-17 14:00:00,extreme vehicle_count outlier (>= 5000)
+1818,CAM-H-02,Zone H,13848,ACTIVE,2026-03-17 17:00:00,extreme vehicle_count outlier (>= 5000)
+1830,,Zone J,834,ACTIVE,2026-03-18 05:00:00,NULL or blank camera_node_id
+1845,,Zone E,232,ACTIVE,2026-03-18 20:00:00,NULL or blank camera_node_id
+1862,,Zone B ,507,ACTIVE,2026-03-19 13:00:00,NULL or blank camera_node_id
+1867,CAM-G-04,  Zone G  ,-578,ACTIVE,2026-03-19 18:00:00,negative vehicle_count
+1875,CAM-E-06,Zone E,-472,ACTIVE,2026-03-20 02:00:00,negative vehicle_count
+1876,CAM-F-05, Zone F,11042,ACTIVE,2026-03-20 03:00:00,extreme vehicle_count outlier (>= 5000)
+1882,CAM-B-02, Zone B,-263,ACTIVE,2026-03-20 09:00:00,negative vehicle_count
+1890,,Zone J,142,ACTIVE,2026-03-20 17:00:00,NULL or blank camera_node_id
+1893,,ZONE C,465,ACTIVE,2026-03-20 20:00:00,NULL or blank camera_node_id
+1906,,zone f,616,ACTIVE,2026-03-21 09:00:00,NULL or blank camera_node_id
+1910,CAM-J-03,zone j,6241,ACTIVE,2026-03-21 13:00:00,extreme vehicle_count outlier (>= 5000)
+1959,,  Zone I  ,172,ACTIVE,2026-03-23 14:00:00,NULL or blank camera_node_id
+1970,CAM-J-01,  Zone J  ,7889,ACTIVE,2026-03-24 01:00:00,extreme vehicle_count outlier (>= 5000)
+1973,CAM-C-06,  Zone C  ,9177,ACTIVE,2026-03-24 04:00:00,extreme vehicle_count outlier (>= 5000)
+1978,,Zone H ,552,ACTIVE,2026-03-24 09:00:00,NULL or blank camera_node_id
+1989,CAM-I-02,Zone I ,-600,ACTIVE,2026-03-24 20:00:00,negative vehicle_count
+1992,,  Zone B  ,347,ACTIVE,2026-03-24 23:00:00,NULL or blank camera_node_id
+1999,,Zone I,455,ACTIVE,2026-03-25 06:00:00,NULL or blank camera_node_id
+2012,CAM-B-02,ZONE B,-778,ACTIVE,2026-03-25 19:00:00,negative vehicle_count
+2030,,ZONE J,661,ACTIVE,2026-03-26 13:00:00,NULL or blank camera_node_id
+2031,,Zone A,476,ACTIVE,2026-03-26 14:00:00,NULL or blank camera_node_id
+2033,,Zone C,447,ACTIVE,2026-03-26 16:00:00,NULL or blank camera_node_id
+2050,,zone j,435,ACTIVE,2026-03-27 09:00:00,NULL or blank camera_node_id
+2057,,Zone G,122,ACTIVE,2026-03-27 16:00:00,NULL or blank camera_node_id
+2059,, Zone I,220,ACTIVE,2026-03-27 18:00:00,NULL or blank camera_node_id
+2074,CAM-D-06, Zone D,7235,ACTIVE,2026-03-28 09:00:00,extreme vehicle_count outlier (>= 5000)
+2079,,zone i,309,ACTIVE,2026-03-28 14:00:00,NULL or blank camera_node_id
+2107,CAM-G-03,Zone G,-432,ACTIVE,2026-03-29 18:00:00,negative vehicle_count
+2113,,ZONE C,226,ACTIVE,2026-03-30 00:00:00,NULL or blank camera_node_id
+2121,,zone a,189,ACTIVE,2026-03-30 08:00:00,NULL or blank camera_node_id
+2140,,  Zone J  ,146,ACTIVE,2026-03-31 03:00:00,NULL or blank camera_node_id
+2144,CAM-D-08,Zone D,-773,ACTIVE,2026-03-31 07:00:00,negative vehicle_count
+2149,CAM-I-01,Zone I,9552,ACTIVE,2026-03-31 12:00:00,extreme vehicle_count outlier (>= 5000)
+2158,CAM-H-06, Zone H,-636,ACTIVE,2026-03-31 21:00:00,negative vehicle_count
+2162,,ZONE B,325,ACTIVE,2026-04-01 01:00:00,NULL or blank camera_node_id
+2186,CAM-F-03, Zone F,9115,ACTIVE,2026-04-02 01:00:00,extreme vehicle_count outlier (>= 5000)
+2187,CAM-G-04,  Zone G  ,10986,ACTIVE,2026-04-02 02:00:00,extreme vehicle_count outlier (>= 5000)
+2190,CAM-J-07,  Zone J  ,-225,ACTIVE,2026-04-02 05:00:00,negative vehicle_count
+2227,CAM-G-05, Zone G,-574,ACTIVE,2026-04-03 18:00:00,negative vehicle_count
+2236,CAM-F-08, Zone F,-477,ACTIVE,2026-04-04 03:00:00,negative vehicle_count
+2265,CAM-E-07,zone e,-284,ACTIVE,2026-04-05 08:00:00,negative vehicle_count
+2292,, Zone B,285,ACTIVE,2026-04-06 11:00:00,NULL or blank camera_node_id
+2310,,Zone J,350,ACTIVE,2026-04-07 05:00:00,NULL or blank camera_node_id
+2316,,Zone F,75,ACTIVE,2026-04-07 11:00:00,NULL or blank camera_node_id
+2324,,Zone D,569,ACTIVE,2026-04-07 19:00:00,NULL or blank camera_node_id
+2342,,Zone B ,59,ACTIVE,2026-04-08 13:00:00,NULL or blank camera_node_id
+2351,CAM-A-02, Zone A,6060,ACTIVE,2026-04-08 22:00:00,extreme vehicle_count outlier (>= 5000)
+2366,CAM-F-01, Zone F,-544,ACTIVE,2026-04-09 13:00:00,negative vehicle_count
+2372,,  Zone B  ,123,ACTIVE,2026-04-09 19:00:00,NULL or blank camera_node_id
+2375,CAM-E-03,  Zone E  ,-651,ACTIVE,2026-04-09 22:00:00,negative vehicle_count
+2383,,Zone C ,458,ACTIVE,2026-04-10 06:00:00,NULL or blank camera_node_id
+2388,CAM-H-08,ZONE H,-231,ACTIVE,2026-04-10 11:00:00,negative vehicle_count
+2407,CAM-G-03,Zone G ,-115,ACTIVE,2026-04-11 06:00:00,negative vehicle_count
+2410,CAM-J-05,Zone J ,14637,ACTIVE,2026-04-11 09:00:00,extreme vehicle_count outlier (>= 5000)
+2419,,Zone I ,283,ACTIVE,2026-04-11 18:00:00,NULL or blank camera_node_id
+2428,CAM-H-07,ZONE H,-406,ACTIVE,2026-04-12 03:00:00,negative vehicle_count
+2441,,Zone A ,427,ACTIVE,2026-04-12 16:00:00,NULL or blank camera_node_id
+2448,,Zone H ,426,ACTIVE,2026-04-12 23:00:00,NULL or blank camera_node_id
+2452,,Zone B,481,ACTIVE,2026-04-13 03:00:00,NULL or blank camera_node_id
+2457,,  Zone G  ,888,ACTIVE,2026-04-13 08:00:00,NULL or blank camera_node_id
+2467,CAM-G-03,zone g,7907,ACTIVE,2026-04-13 18:00:00,extreme vehicle_count outlier (>= 5000)
+2524,CAM-D-03,  Zone D  ,-355,ACTIVE,2026-04-16 03:00:00,negative vehicle_count
+2525,CAM-E-03,Zone E ,7911,ACTIVE,2026-04-16 04:00:00,extreme vehicle_count outlier (>= 5000)
+2538,CAM-H-02,Zone H,6104,ACTIVE,2026-04-16 17:00:00,extreme vehicle_count outlier (>= 5000)
+2564,,ZONE D,452,ACTIVE,2026-04-17 19:00:00,NULL or blank camera_node_id
+2567,,ZONE G,718,ACTIVE,2026-04-17 22:00:00,NULL or blank camera_node_id
+2573,,ZONE C,283,ACTIVE,2026-04-18 04:00:00,NULL or blank camera_node_id
+2581,,zone a,87,ACTIVE,2026-04-18 12:00:00,NULL or blank camera_node_id
+2587,,Zone G ,82,ACTIVE,2026-04-18 18:00:00,NULL or blank camera_node_id
+2590,,Zone J ,215,ACTIVE,2026-04-18 21:00:00,NULL or blank camera_node_id
+2596,CAM-F-05, Zone F,10552,ACTIVE,2026-04-19 03:00:00,extreme vehicle_count outlier (>= 5000)
+2601,CAM-A-01,Zone A,-761,ACTIVE,2026-04-19 08:00:00,negative vehicle_count
+2603,CAM-C-01,  Zone C  ,8583,ACTIVE,2026-04-19 10:00:00,extreme vehicle_count outlier (>= 5000)
+2607,CAM-G-02,zone g,-173,ACTIVE,2026-04-19 14:00:00,negative vehicle_count
+2609,,ZONE I,416,ACTIVE,2026-04-19 16:00:00,NULL or blank camera_node_id
+2636,,Zone F ,193,ACTIVE,2026-04-20 19:00:00,NULL or blank camera_node_id
+2644,,zone d,336,ACTIVE,2026-04-21 03:00:00,NULL or blank camera_node_id
+2659,CAM-I-02,ZONE I,12846,ACTIVE,2026-04-21 18:00:00,extreme vehicle_count outlier (>= 5000)
+2663,CAM-C-08,ZONE C,-672,ACTIVE,2026-04-21 22:00:00,negative vehicle_count
+2667,CAM-G-05,ZONE G,-90,ACTIVE,2026-04-22 02:00:00,negative vehicle_count
+2668,CAM-H-02, Zone H,5101,ACTIVE,2026-04-22 03:00:00,extreme vehicle_count outlier (>= 5000)
+2672,CAM-B-01,  Zone B  ,7901,ACTIVE,2026-04-22 07:00:00,extreme vehicle_count outlier (>= 5000)
+2678,CAM-H-08,Zone H,-257,ACTIVE,2026-04-22 13:00:00,negative vehicle_count
+2680,,Zone J ,831,ACTIVE,2026-04-22 15:00:00,NULL or blank camera_node_id
+2716,CAM-F-03, Zone F,-864,ACTIVE,2026-04-24 03:00:00,negative vehicle_count
+2719,,zone i,152,ACTIVE,2026-04-24 06:00:00,NULL or blank camera_node_id
+2720,,zone j,712,ACTIVE,2026-04-24 07:00:00,NULL or blank camera_node_id
+2725,,zone e,390,ACTIVE,2026-04-24 12:00:00,NULL or blank camera_node_id
+2733,CAM-C-06,zone c,-780,ACTIVE,2026-04-24 20:00:00,negative vehicle_count
+2734,CAM-D-05,ZONE D,-691,ACTIVE,2026-04-24 21:00:00,negative vehicle_count
+2737,,ZONE G,659,ACTIVE,2026-04-25 00:00:00,NULL or blank camera_node_id
+2752,,zone b,701,ACTIVE,2026-04-25 15:00:00,NULL or blank camera_node_id
+2767,,ZONE G,573,ACTIVE,2026-04-26 06:00:00,NULL or blank camera_node_id
+2769,CAM-I-07,Zone I ,12146,ACTIVE,2026-04-26 08:00:00,extreme vehicle_count outlier (>= 5000)
+2773,CAM-C-03,zone c,-285,ACTIVE,2026-04-26 12:00:00,negative vehicle_count
+2778,CAM-H-08,Zone H ,-435,ACTIVE,2026-04-26 17:00:00,negative vehicle_count
+2780,CAM-J-07, Zone J,-885,ACTIVE,2026-04-26 19:00:00,negative vehicle_count
+2798,CAM-H-08, Zone H,-153,ACTIVE,2026-04-27 13:00:00,negative vehicle_count
+2804,CAM-D-03, Zone D,-715,ACTIVE,2026-04-27 19:00:00,negative vehicle_count
+2805,CAM-E-07,Zone E ,-496,ACTIVE,2026-04-27 20:00:00,negative vehicle_count
+2806,,Zone F ,165,ACTIVE,2026-04-27 21:00:00,NULL or blank camera_node_id
+2817,,  Zone G  ,473,ACTIVE,2026-04-28 08:00:00,NULL or blank camera_node_id
+2818,CAM-H-05,Zone H,12639,ACTIVE,2026-04-28 09:00:00,extreme vehicle_count outlier (>= 5000)
+2847,,Zone G ,703,ACTIVE,2026-04-29 14:00:00,NULL or blank camera_node_id
+2852,,zone b,297,ACTIVE,2026-04-29 19:00:00,NULL or blank camera_node_id
+2853,CAM-C-04, Zone C,-658,ACTIVE,2026-04-29 20:00:00,negative vehicle_count
+2866,CAM-F-02,ZONE F,-193,ACTIVE,2026-04-30 09:00:00,negative vehicle_count
+2873,,Zone C ,899,ACTIVE,2026-04-30 16:00:00,NULL or blank camera_node_id
+2886,CAM-F-01,zone f,-419,ACTIVE,2026-05-01 05:00:00,negative vehicle_count
+2900,CAM-J-02,Zone J,-575,ACTIVE,2026-05-01 19:00:00,negative vehicle_count
+2901,,Zone A,335,ACTIVE,2026-05-01 20:00:00,NULL or blank camera_node_id
+2903,CAM-C-01,zone c,9646,ACTIVE,2026-05-01 22:00:00,extreme vehicle_count outlier (>= 5000)
+2906,CAM-F-05, Zone F,-103,ACTIVE,2026-05-02 01:00:00,negative vehicle_count
+2912,,  Zone B  ,168,ACTIVE,2026-05-02 07:00:00,NULL or blank camera_node_id
+2920,CAM-J-01,ZONE J,-670,ACTIVE,2026-05-02 15:00:00,negative vehicle_count
+2923,CAM-C-07, Zone C,-191,ACTIVE,2026-05-02 18:00:00,negative vehicle_count
+2931,CAM-A-06,  Zone A  ,13301,ACTIVE,2026-05-03 02:00:00,extreme vehicle_count outlier (>= 5000)
+2948,,ZONE H,465,ACTIVE,2026-05-03 19:00:00,NULL or blank camera_node_id
+2955,,  Zone E  ,466,ACTIVE,2026-05-04 02:00:00,NULL or blank camera_node_id
+2975,,Zone E,196,ACTIVE,2026-05-04 22:00:00,NULL or blank camera_node_id
+2981,CAM-A-01,ZONE A,-596,ACTIVE,2026-05-05 04:00:00,negative vehicle_count
+2991,,Zone A ,512,ACTIVE,2026-05-05 14:00:00,NULL or blank camera_node_id
+2996,,Zone F ,458,ACTIVE,2026-05-05 19:00:00,NULL or blank camera_node_id
+2997,,  Zone G  ,314,ACTIVE,2026-05-05 20:00:00,NULL or blank camera_node_id
+3019,CAM-I-04,zone i,-817,ACTIVE,2026-05-06 18:00:00,negative vehicle_count
+3026,CAM-F-08,zone f,12156,ACTIVE,2026-05-07 01:00:00,extreme vehicle_count outlier (>= 5000)
+3041,, Zone A,475,ACTIVE,2026-05-07 16:00:00,NULL or blank camera_node_id
+3067,CAM-G-01,ZONE G,9505,ACTIVE,2026-05-08 18:00:00,extreme vehicle_count outlier (>= 5000)
+3069,,  Zone I  ,160,ACTIVE,2026-05-08 20:00:00,NULL or blank camera_node_id
+3071,CAM-A-08,  Zone A  ,-698,ACTIVE,2026-05-08 22:00:00,negative vehicle_count
+3121,,ZONE A,563,ACTIVE,2026-05-11 00:00:00,NULL or blank camera_node_id
+3142,,  Zone B  ,152,ACTIVE,2026-05-11 21:00:00,NULL or blank camera_node_id
+3153,CAM-C-05, Zone C,5874,ACTIVE,2026-05-12 08:00:00,extreme vehicle_count outlier (>= 5000)
+3155,,ZONE E,487,ACTIVE,2026-05-12 10:00:00,NULL or blank camera_node_id
+3163,,Zone C,190,ACTIVE,2026-05-12 18:00:00,NULL or blank camera_node_id
+3168,CAM-H-07,Zone H ,8381,ACTIVE,2026-05-12 23:00:00,extreme vehicle_count outlier (>= 5000)
+3171,,Zone A ,577,ACTIVE,2026-05-13 02:00:00,NULL or blank camera_node_id
+3179,,Zone I,541,ACTIVE,2026-05-13 10:00:00,NULL or blank camera_node_id
+3214,,Zone D,224,ACTIVE,2026-05-14 21:00:00,NULL or blank camera_node_id
+3234,,  Zone D  ,460,ACTIVE,2026-05-15 17:00:00,NULL or blank camera_node_id
+3244,CAM-D-03,Zone D,10812,ACTIVE,2026-05-16 03:00:00,extreme vehicle_count outlier (>= 5000)
+3248,CAM-H-05,Zone H ,6850,ACTIVE,2026-05-16 07:00:00,extreme vehicle_count outlier (>= 5000)
+3259,,ZONE I,643,ACTIVE,2026-05-16 18:00:00,NULL or blank camera_node_id
+3261,CAM-A-08,  Zone A  ,-705,ACTIVE,2026-05-16 20:00:00,negative vehicle_count
+3274,CAM-D-06,Zone D ,-508,ACTIVE,2026-05-17 09:00:00,negative vehicle_count
+3278,,zone h,310,ACTIVE,2026-05-17 13:00:00,NULL or blank camera_node_id
+3282,, Zone B,283,ACTIVE,2026-05-17 17:00:00,NULL or blank camera_node_id
+3286,,zone f,432,ACTIVE,2026-05-17 21:00:00,NULL or blank camera_node_id
+3294,CAM-D-01,Zone D ,-556,ACTIVE,2026-05-18 05:00:00,negative vehicle_count
+3303,CAM-C-06,  Zone C  ,11884,ACTIVE,2026-05-18 14:00:00,extreme vehicle_count outlier (>= 5000)
+3307,CAM-G-02,  Zone G  ,6811,ACTIVE,2026-05-18 18:00:00,extreme vehicle_count outlier (>= 5000)
+3308,CAM-H-07,  Zone H  ,-418,ACTIVE,2026-05-18 19:00:00,negative vehicle_count
+3338,CAM-H-02,zone h,-472,ACTIVE,2026-05-20 01:00:00,negative vehicle_count
+3342,,ZONE B,120,ACTIVE,2026-05-20 05:00:00,NULL or blank camera_node_id
+3355,,  Zone E  ,381,ACTIVE,2026-05-20 18:00:00,NULL or blank camera_node_id
+3360,CAM-J-04,zone j,6599,ACTIVE,2026-05-20 23:00:00,extreme vehicle_count outlier (>= 5000)
+3368,,Zone H,121,ACTIVE,2026-05-21 07:00:00,NULL or blank camera_node_id
+3376,CAM-F-02,zone f,13407,ACTIVE,2026-05-21 15:00:00,extreme vehicle_count outlier (>= 5000)
+3383,CAM-C-07,Zone C,-304,ACTIVE,2026-05-21 22:00:00,negative vehicle_count
+3403,,Zone C,96,ACTIVE,2026-05-22 18:00:00,NULL or blank camera_node_id
+3406,CAM-F-02,Zone F ,12953,ACTIVE,2026-05-22 21:00:00,extreme vehicle_count outlier (>= 5000)
+3409,,zone i,506,ACTIVE,2026-05-23 00:00:00,NULL or blank camera_node_id
+3413,,Zone C ,198,ACTIVE,2026-05-23 04:00:00,NULL or blank camera_node_id
+3416,, Zone F,262,ACTIVE,2026-05-23 07:00:00,NULL or blank camera_node_id
+3428,CAM-H-02,  Zone H  ,-431,ACTIVE,2026-05-23 19:00:00,negative vehicle_count
+3434,,  Zone D  ,172,ACTIVE,2026-05-24 01:00:00,NULL or blank camera_node_id
+3435,CAM-E-08, Zone E,-374,ACTIVE,2026-05-24 02:00:00,negative vehicle_count
+3448,CAM-H-02,  Zone H  ,10365,ACTIVE,2026-05-24 15:00:00,extreme vehicle_count outlier (>= 5000)
+3450,CAM-J-07, Zone J,-608,ACTIVE,2026-05-24 17:00:00,negative vehicle_count
+3459,,zone i,201,ACTIVE,2026-05-25 02:00:00,NULL or blank camera_node_id
+3465,,Zone E,273,ACTIVE,2026-05-25 08:00:00,NULL or blank camera_node_id
+3469,,zone i,138,ACTIVE,2026-05-25 12:00:00,NULL or blank camera_node_id
+3473,,zone c,531,ACTIVE,2026-05-25 16:00:00,NULL or blank camera_node_id
+3480,,ZONE J,50,ACTIVE,2026-05-25 23:00:00,NULL or blank camera_node_id
+3486,,Zone F ,198,ACTIVE,2026-05-26 05:00:00,NULL or blank camera_node_id
+3493,,Zone C ,498,ACTIVE,2026-05-26 12:00:00,NULL or blank camera_node_id
+3496,CAM-F-02,Zone F ,-188,ACTIVE,2026-05-26 15:00:00,negative vehicle_count
+3504,CAM-D-03,ZONE D,-682,ACTIVE,2026-05-26 23:00:00,negative vehicle_count
+3510,CAM-J-06,  Zone J  ,-356,ACTIVE,2026-05-27 05:00:00,negative vehicle_count
+3548,,  Zone H  ,564,ACTIVE,2026-05-28 19:00:00,NULL or blank camera_node_id
+3557,,Zone G ,150,ACTIVE,2026-05-29 04:00:00,NULL or blank camera_node_id
+3562,,  Zone B  ,321,ACTIVE,2026-05-29 09:00:00,NULL or blank camera_node_id
+3607,,Zone G ,503,ACTIVE,2026-05-31 06:00:00,NULL or blank camera_node_id
+3622,CAM-B-04,zone b,13615,ACTIVE,2026-05-31 21:00:00,extreme vehicle_count outlier (>= 5000)
+3631,,Zone A,578,ACTIVE,2026-06-01 06:00:00,NULL or blank camera_node_id
+3636,CAM-F-06,Zone F,-617,ACTIVE,2026-06-01 11:00:00,negative vehicle_count
+3643,CAM-C-05,Zone C ,-363,ACTIVE,2026-06-01 18:00:00,negative vehicle_count
+3650,,zone j,537,ACTIVE,2026-06-02 01:00:00,NULL or blank camera_node_id
+3653,,Zone C ,103,ACTIVE,2026-06-02 04:00:00,NULL or blank camera_node_id
+3668,, Zone H,455,ACTIVE,2026-06-02 19:00:00,NULL or blank camera_node_id
+3677,,  Zone G  ,756,ACTIVE,2026-06-03 04:00:00,NULL or blank camera_node_id
+3690,,  Zone J  ,447,ACTIVE,2026-06-03 17:00:00,NULL or blank camera_node_id
+3694,CAM-D-05,Zone D,-89,ACTIVE,2026-06-03 21:00:00,negative vehicle_count
+3698,,Zone H ,463,ACTIVE,2026-06-04 01:00:00,NULL or blank camera_node_id
+3739,CAM-I-08, Zone I,-732,ACTIVE,2026-06-05 18:00:00,negative vehicle_count
+3749,CAM-I-08, Zone I,-258,ACTIVE,2026-06-06 04:00:00,negative vehicle_count
+3754,CAM-D-04,  Zone D  ,10691,ACTIVE,2026-06-06 09:00:00,extreme vehicle_count outlier (>= 5000)
+3766,CAM-F-08,ZONE F,-570,ACTIVE,2026-06-06 21:00:00,negative vehicle_count
+3768,CAM-H-07,zone h,-417,ACTIVE,2026-06-06 23:00:00,negative vehicle_count
+3780,,zone j,364,ACTIVE,2026-06-07 11:00:00,NULL or blank camera_node_id
+3790,CAM-J-01,Zone J,8751,ACTIVE,2026-06-07 21:00:00,extreme vehicle_count outlier (>= 5000)
+3797,CAM-G-05, Zone G,12767,ACTIVE,2026-06-08 04:00:00,extreme vehicle_count outlier (>= 5000)
+3810,CAM-J-08,Zone J,-207,ACTIVE,2026-06-08 17:00:00,negative vehicle_count
+3824,, Zone D,947,ACTIVE,2026-06-09 07:00:00,NULL or blank camera_node_id
+3840,CAM-J-04,  Zone J  ,8695,ACTIVE,2026-06-09 23:00:00,extreme vehicle_count outlier (>= 5000)
+3857,CAM-G-02,  Zone G  ,11429,ACTIVE,2026-06-10 16:00:00,extreme vehicle_count outlier (>= 5000)
+3858,,  Zone H  ,169,ACTIVE,2026-06-10 17:00:00,NULL or blank camera_node_id
+3860,CAM-J-02,Zone J,-94,ACTIVE,2026-06-10 19:00:00,negative vehicle_count
+3862,,ZONE B,468,ACTIVE,2026-06-10 21:00:00,NULL or blank camera_node_id
+3874,,  Zone D  ,93,ACTIVE,2026-06-11 09:00:00,NULL or blank camera_node_id
+3875,, Zone E,242,ACTIVE,2026-06-11 10:00:00,NULL or blank camera_node_id
+3879,CAM-I-08,zone i,-51,ACTIVE,2026-06-11 14:00:00,negative vehicle_count
+3882,,Zone B,616,ACTIVE,2026-06-11 17:00:00,NULL or blank camera_node_id
+3895,, Zone E,529,ACTIVE,2026-06-12 06:00:00,NULL or blank camera_node_id
+3934,CAM-D-07,Zone D ,-580,ACTIVE,2026-06-13 21:00:00,negative vehicle_count
+3938,CAM-H-04,ZONE H,-660,ACTIVE,2026-06-14 01:00:00,negative vehicle_count
+3945,,  Zone E  ,708,ACTIVE,2026-06-14 08:00:00,NULL or blank camera_node_id
+3952,,  Zone B  ,103,ACTIVE,2026-06-14 15:00:00,NULL or blank camera_node_id
+3961,,  Zone A  ,200,ACTIVE,2026-06-15 00:00:00,NULL or blank camera_node_id
+3968,, Zone H,603,ACTIVE,2026-06-15 07:00:00,NULL or blank camera_node_id
+3969,,zone i,177,ACTIVE,2026-06-15 08:00:00,NULL or blank camera_node_id
+3986,, Zone F,80,ACTIVE,2026-06-16 01:00:00,NULL or blank camera_node_id
+3992,, Zone B,675,ACTIVE,2026-06-16 07:00:00,NULL or blank camera_node_id
